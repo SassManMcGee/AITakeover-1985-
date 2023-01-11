@@ -1,8 +1,8 @@
-# Research Practicum 2018 – Research Plan (Template)
+# Research Practicum 2023 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
+> * Group Name: AI Takeover: The 1985 experience
+> * Group participants names: Morgan Hilton, Emily Bannister, Jordan Sasser
 > * Project Title: (can be changed later)
 
 ## General Introduction
