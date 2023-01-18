@@ -11,6 +11,10 @@
 (Add real-world examples, if any)
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
+Main topic: Trust in AI
+
+Real-world: E-commerce is becoming the largest way for consmers to make purchases. Global e-commerce sales are expected to hit $5.5 trillion in 2022. Around 76% of U.S. adults shop online.
+
 Experiment idea: Investigating the clicking behaviors of users based on the degree of humanistic appearance of an AI chatbot Icon image. Chatbot will be utalized as a e-commerse website assistant. The website will purposely utalize poor UI that demand the user to use the assistant. Measurements will be the clicking behaviors of the user as well as the time to use of the agent. Covariates of AI general attitudes will be used to understand individuals with very large differences.
 
 IV: cartoonish icon, realistic icon, hyper realistic icon
@@ -40,6 +44,10 @@ Discuss briefly about published matter that technically relates to your proposed
 ## References 
 
 (Add the bibliographic references you intend to use in format you want)
+
+Real-world information:
+https://maristpoll.marist.edu/wp-content/misc/usapolls/us180423_NPR/NPR_Marist%20Poll_Tables%20of%20Questions_May%202018.pdf
+https://www.insiderintelligence.com/content/global-ecommerce-forecast-2022
 
 Schepman, A., & Rodway, P. (2022). The General Attitudes towards Artificial Intelligence Scale (GAAIS): Confirmatory Validation and Associations with Personality, Corporate Distrust, and General Trust.
 
