@@ -23,13 +23,21 @@ DV: Number of clicks on website, number of times clicked on agent, number of tim
 
 Subjective DV: Trust, SUS (Usability)
 
-|         |               |                                           | Realism of AI Icon                        |                                           |
-|---------|---------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-|         |               | Cartoon-ish nonhuman                      | Realistic humanoid                        | Hyper realistic  human                    |
-| AI Type | ChatGPT       | Click Measurement, [SUS] Usability, Trust | Click Measurement, [SUS] Usability, Trust | Click Measurement, [SUS] Usability, Trust |
-|         | Simplistic AI | Click Measurement, [SUS] Usability, Trust | Click Measurement, [SUS] Usability, Trust | Click Measurement, [SUS] Usability, Trust |
+|            |            |                                           | Realism of AI Icon                        |                                           |
+|------------|------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+|            |            | Cartoon-ish Nonhuman                      | Realistic Humanoid                        | Hyper realistic Human                     |
+| Visual-cue | Visual     | Click Measurement, [SUS] Usability, Trust | Click Measurement, [SUS] Usability, Trust | Click Measurement, [SUS] Usability, Trust |
+|            | Text-based | Click Measurement, [SUS] Usability, Trust | Click Measurement, [SUS] Usability, Trust | Click Measurement, [SUS] Usability, Trust |
 
 Covariate: Attitudes towards AI
+
+Textbased examples:
+
+Cartoon-ish Nonhuman - I am here to lend a hand--er, paw--if you require assistance!
+
+Realistic humanoid - I'm standing by, ready to help you in any way I can.
+
+hyper-realistic human - Hi there! Do you need any help?
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
@@ -55,7 +63,13 @@ Discuss briefly about published matter that technically relates to your proposed
 (Add the bibliographic references you intend to use in format you want)
 
 Real-world information:
+
+Spending est. of e-commerse:
+
 https://maristpoll.marist.edu/wp-content/misc/usapolls/us180423_NPR/NPR_Marist%20Poll_Tables%20of%20Questions_May%202018.pdf
+
+
+
 https://www.insiderintelligence.com/content/global-ecommerce-forecast-2022
 
 Schepman, A., & Rodway, P. (2022). The General Attitudes towards Artificial Intelligence Scale (GAAIS): Confirmatory Validation and Associations with Personality, Corporate Distrust, and General Trust.
