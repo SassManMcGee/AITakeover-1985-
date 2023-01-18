@@ -3,7 +3,7 @@
 
 > * Group Name: AI Takeover: The 1985 experience
 > * Group participants names: Morgan Hilton, Emily Bannister, Jordan Sasser
-> * Project Title: (can be changed later)
+> * Project Title: Uncanny AI: To click or not to click
 
 ## General Introduction
 
@@ -33,6 +33,8 @@ Discuss briefly about published matter that technically relates to your proposed
 ## References 
 
 (Add the bibliographic references you intend to use in format you want)
+
+Schepman, A., & Rodway, P. (2022). The General Attitudes towards Artificial Intelligence Scale (GAAIS): Confirmatory Validation and Associations with Personality, Corporate Distrust, and General Trust.
 
 
 
