@@ -18,8 +18,17 @@ Real-world: E-commerce is becoming the largest way for consmers to make purchase
 Experiment idea: Investigating the clicking behaviors of users based on the degree of humanistic appearance of an AI chatbot Icon image. Chatbot will be utalized as a e-commerse website assistant. The website will purposely utalize poor UI that demand the user to use the assistant. Measurements will be the clicking behaviors of the user as well as the time to use of the agent. Covariates of AI general attitudes will be used to understand individuals with very large differences.
 
 IV: cartoonish icon, realistic icon, hyper realistic icon
+
 DV: Number of clicks on website, number of times clicked on agent, number of times agent closed, time between first opening the website and time first used agent
+
 Subjective DV: Trust, SUS (Usability), 
+
+|                    | Cartoon-ish | Realistic | Hyper realistic |
+|--------------------|-------------|-----------|-----------------|
+| Click measurements |             |           |                 |
+| [SUS]Usability     |             |           |                 |
+| Trust              |             |           |                 |
+
 Covariate: Attitudes towards AI
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
