@@ -43,6 +43,10 @@ Rough Image of Icon sizes:
 
 <img width="401" alt="Rough sizes for Icons and Text icon" src="https://user-images.githubusercontent.com/18073824/213321799-edd3eb14-6789-49e6-9383-f114404dccf4.png">
 
+Uncanny valley Image:
+
+![image](https://user-images.githubusercontent.com/18073824/216189693-829c4eeb-021b-4ce5-96b0-b1942093010b.png)
+
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
