@@ -19,6 +19,11 @@ Li, X., & Sung, Y. (2021). Anthropomorphism brings us closer: The mediating role
 summary/thoughts: 
 This article explores the effect of anthropomorphism in AI assistant technology.  The article found that anthropomorphism increases the positive effect of AI assistant technology. They do not, however, have any explanation as to why this is. One observation of the study was that because human emotions are attributed innately to anthropomorphized AI tech, the “uncanny” effect can easily be achieved and lead to mixed reactions/results. It states that when human likeness reaches a certain level, trust plummets but then when likeness surpasses this level, becoming extremely similar to a human agent, trust increases again. They ascertained this by completing an experiment similar to ours in where different levels of anthropomorphizing the agent were evaluated by a group of college students. They found that anthropomorphizing the agent had positive effects, however the mechanism is not clearly defined yet, as to why. It further proposes that anthropomorphism does not correlate with uncanny response. I think this is interesting however, due to the test group (college students) and country of test (Korea), I believe the results could be significantly different with populations evaluated.
 
+Nightingale, S. J., & Farid, H.. (2022). AI-synthesized faces are indistinguishable from real faces and more trustworthy. Proceedings of the National Academy of Sciences, 119(8), e2120481119. https://doi.org/10.1073/pnas.2120481119
+
+summary/thoughts:
+The article explores the differences between snythetic (AI-synythesized faces) and real faces. The study is looking at trustworthiness and correct classification of the faces. For classification, white faces were observed to have the most difficult experience in classification most likely due to the overrepresentation in the the database used. More interestingly, The average rating for real faces is less trustworthy than synthetic faces. Although a small effect, Black faces were rated more trustworthy than South Asian faces, but, otherwise, there was no effect across race. Women were rated as significantly more trustworthy than men.
+
 ## Review
 
 Source 2
