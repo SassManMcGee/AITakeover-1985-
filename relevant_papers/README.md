@@ -10,7 +10,7 @@
 (3-5 main sources)
 
 * Source 1
-* Source 2
+* Maier, M., &amp; Harr, R. (2020). Dark design patterns: An end-user perspective. Human Technology, 16(2), 170–199. https://doi.org/10.17011/ht/urn.202008245641 
 * [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
 
 
@@ -21,9 +21,9 @@ This article explores the effect of anthropomorphism in AI assistant technology.
 
 ## Review
 
-(which paper)
-(Summerize/Describe the paper in 3-5 sentences)
-(Executive summary of your whole review in 2-3 sentences)
+Source 2
+Summary of article:
+This article provides a brief summary of human-decision making processes, design intended to guide behavior, as well as an introduction to "Dark Patterns". Dark Patterns are design choices and patterns that are intended to guide user interaction on websites and applications in order to benefit companies. These design pattterns are deceptive in nature and some research has indicated that users may not be enitrely aware of their existence. The researchers found through interviews and focus groups that users are somewhat aware of "Dark Patterns". Users found them to be deceptive and annoying, however felt resigned to accept dealing with them due to the fact that the services provided by the website/application was necessary for day-to-day life. The main issue with this paper is the small sample size. The sample is also grabbed from convenience at a University. However, the sentiments expressed by participants are similar to similar research on the subject.
 
 #### Clarity of Exposition
 
