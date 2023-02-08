@@ -43,6 +43,9 @@ potential image:
 
 ![virtualAsssistant_01](https://user-images.githubusercontent.com/48068108/217644123-73fef647-b67a-4a12-b9d9-44876dca373d.png)
 
+![virtualAsssistant_02](https://user-images.githubusercontent.com/48068108/217644611-b07de2f3-a65d-4540-8918-654580f1719e.png)
+
+
 
 Rough Image of Icon sizes:
 
