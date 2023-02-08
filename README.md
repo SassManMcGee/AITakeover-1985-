@@ -68,6 +68,13 @@ Uncanny valley Image:
 
 ![image](https://user-images.githubusercontent.com/18073824/216189693-829c4eeb-021b-4ce5-96b0-b1942093010b.png)
 
+GPower Analysis for hypothetical participants:
+
+[Power_Analysis_Class.pdf](https://github.com/SassManMcGee/AITakeover-1985-/files/10690502/Power_Analysis_Class.pdf)
+
+[Power_Analysis_Protocol_Class.pdf](https://github.com/SassManMcGee/AITakeover-1985-/files/10690503/Power_Analysis_Protocol_Class.pdf)
+
+
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
