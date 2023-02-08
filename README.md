@@ -17,7 +17,7 @@ Real-world: E-commerce is becoming the largest way for consmers to make purchase
 
 Experiment idea: Investigating the clicking behaviors of users based on the degree of humanistic appearance of an AI chatbot Icon image. Chatbot will be utalized as a e-commerse website assistant. The website will purposely utalize poor UI that demand the user to use the assistant. Measurements will be the clicking behaviors of the user as well as the time to use of the agent. Covariates of AI general attitudes will be used to understand individuals with very large differences.
 
-IV: Realism of Icon (cartoonish nonhuman icon, realistic humanoid icon, hyper realistic human icon), AI Type (ChatGPT, Simple/traditional)
+IV: Realism of Icon (cartoonish nonhuman icon, realistic humanoid icon, hyper realistic human icon), Visual Cues (text-based vs visual based)
 
 DV: Number of clicks on website, number of times clicked on agent, number of times agent closed, time between first opening the website and time first used agent
 
@@ -30,6 +30,19 @@ Subjective DV: Trust, SUS (Usability)
 |            | Text-based | Click Measurement, [SUS] Usability, Trust | Click Measurement, [SUS] Usability, Trust | Click Measurement, [SUS] Usability, Trust |
 
 Covariate: Attitudes towards AI
+
+Operational definitions:
+
+Realism of AI icon will be based within a pictoral form as opposed to including any form of motion. Hyper realistic human would be most optimally closest to a human in appearance while not being a true human picture. Realistic humanoid would act as the control withiin this setting as most e-commerse sites utilize a cartoony realistic humanoid. Cartoon-ish nonhuman will be the cute nonhuman avatar that is closest to toy-like.
+
+Begining stage hypothesis:
+
+1. Differences should be seen between realism of AI Icon in levels of affinity (trust, etc.).
+* Cartoon-ish nonhuman would would higher affinity while being lower in human likeness. 
+* Realistic human should fall in the more middle of the ground with middle affinity and middle human likeness. 
+* Hyper realistic human should invoke the uncanney valley feeling as it will have high human likeness, but have low affinity.
+2. Visual cue type should impact individuals likelyhood to activate the chatbot to complete the task.
+* Visual based chatbot icons will increase the time of activation.
 
 Textbased examples:
 
