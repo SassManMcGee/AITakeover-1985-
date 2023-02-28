@@ -52,7 +52,14 @@ Realistic humanoid - I'm standing by, ready to help you in any way I can.
 
 hyper-realistic human - Hi there! Do you need any help?
 
-potential image:
+potential image - hyperrealistic human:
+
+https://generated.photos/faces/adult/black-race/joy/female
+
+![image](https://user-images.githubusercontent.com/18073824/222006275-a667e254-1d47-40cd-a44c-4b8c04aa1635.png)
+
+
+potential image - realistic humanoid:
 
 ![virtualAsssistant_01](https://user-images.githubusercontent.com/48068108/217644123-73fef647-b67a-4a12-b9d9-44876dca373d.png)
 
