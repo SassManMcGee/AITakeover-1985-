@@ -81,6 +81,10 @@ GPower Analysis for hypothetical participants:
 
 [Power_Analysis_Protocol_Class.pdf](https://github.com/SassManMcGee/AITakeover-1985-/files/10690503/Power_Analysis_Protocol_Class.pdf)
 
+Qualtrics survey:
+
+https://ucf.qualtrics.com/jfe/form/SV_3gV5SwgTSycIgo6
+
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
