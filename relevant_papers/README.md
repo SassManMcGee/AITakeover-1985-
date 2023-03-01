@@ -9,12 +9,15 @@
 
 (3-5 main sources)
 
-* Source 1
+* Mori, M., MacDorman, K. F., & Kageki, N. (2012). The uncanny valley [from the field]. IEEE Robotics & automation magazine, 19(2), 98-100.
 * Min, F. A. N., Fang, Z. O. U., He, Y., & Xuan, J. I. A. N. G. (2021, January). Research on Users' Trust of Chatbots Driven by AI: An Empirical Analysis Based on System Factors and User Characteristics. In 2021 IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE) (pp. 55-58). IEEE.
 * Li, X., & Sung, Y. (2021). Anthropomorphism brings us closer: The mediating role of psychological distance in User–AI assistant interactions - ScienceDirect. ScienceDirect.Com | Science, Health and Medical Journals, Full Text Articles and Books. https://www.sciencedirect.com/science/article/pii/S0747563221000029
 * Nightingale, S. J., & Farid, H. (2022). AI-synthesized faces are indistinguishable from real faces and more trustworthy. Proceedings of the National Academy of Sciences, 119(8), e2120481119. https://doi.org/10.1073/pnas.2120481119
 
 ## Review
+
+Mori et al. (2012) summary/thoughts:
+This article is a translation of the original work of Mori. The article discusses a particular effect where a humanoid object or robot that appears almost, but not completely human-like, can evoke a sense of eeriness or revulsion in the observer. As the agents  become more human-like in their appearance and behavior, there is a point at which they become too realistic, but still noticeably artificial, triggering a negative emotional response from humans. This dip in emotional response is known as the "uncanny valley".
 
 Li & Sung (2021) summary/thoughts: 
 This article explores the effect of anthropomorphism in AI assistant technology.  The article found that anthropomorphism increases the positive effect of AI assistant technology. They do not, however, have any explanation as to why this is. One observation of the study was that because human emotions are attributed innately to anthropomorphized AI tech, the “uncanny” effect can easily be achieved and lead to mixed reactions/results. It states that when human likeness reaches a certain level, trust plummets but then when likeness surpasses this level, becoming extremely similar to a human agent, trust increases again. They ascertained this by completing an experiment similar to ours in where different levels of anthropomorphizing the agent were evaluated by a group of college students. They found that anthropomorphizing the agent had positive effects, however the mechanism is not clearly defined yet, as to why. It further proposes that anthropomorphism does not correlate with uncanny response. I think this is interesting however, due to the test group (college students) and country of test (Korea), I believe the results could be significantly different with populations evaluated.
