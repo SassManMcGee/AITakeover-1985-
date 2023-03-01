@@ -10,7 +10,7 @@
 (3-5 main sources)
 
 * Source 1
-* Maier, M., &amp; Harr, R. (2020). Dark design patterns: An end-user perspective. Human Technology, 16(2), 170–199. https://doi.org/10.17011/ht/urn.202008245641 
+*Min, F. A. N., Fang, Z. O. U., He, Y., & Xuan, J. I. A. N. G. (2021, January). Research on Users' Trust of Chatbots Driven by AI: An Empirical Analysis Based on System Factors and User Characteristics. In 2021 IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE) (pp. 55-58). IEEE.
 * [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
 
 
@@ -28,7 +28,7 @@ The article explores the differences between snythetic (AI-synythesized faces) a
 
 Source 2
 Summary of article:
-This article provides a brief summary of human-decision making processes, design intended to guide behavior, as well as an introduction to "Dark Patterns". Dark Patterns are design choices and patterns that are intended to guide user interaction on websites and applications in order to benefit companies. These design pattterns are deceptive in nature and some research has indicated that users may not be enitrely aware of their existence. The researchers found through interviews and focus groups that users are somewhat aware of "Dark Patterns". Users found them to be deceptive and annoying, however felt resigned to accept dealing with them due to the fact that the services provided by the website/application was necessary for day-to-day life. The main issue with this paper is the small sample size. The sample is also grabbed from convenience at a University. However, the sentiments expressed by participants are similar to similar research on the subject.
+This article investigates the impacts of system factors and the characteristics of it's users in the context of trust of AI chatbots. It begins by providing a brief literature review on prior AI chatbot research, as well as a brief introduction to social presence theory. The researchers investigated the impact of user's perceived personlization (information given to them feels catered to them specifically), perceived media richness (the clarity and amount of information given) as well as past usage experience on the social presence of the AI. In turn the social presence was hypothesized to have a positive impact on user trust. Personlization and perceived media richness were found to have a positive imapct on social presence. Usage expereince was also found to have a positive impact on the perceived social presence. Overall, social presence was found to have a positive impact on user trust.
 
 #### Clarity of Exposition
 
