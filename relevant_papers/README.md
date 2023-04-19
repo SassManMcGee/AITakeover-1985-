@@ -3,7 +3,7 @@
 
 > * Group Name: AI Takeover: The 1985 experience
 > * Group participants names: Morgan Hilton, Emily Bannister, Jordan Sasser
-> * Project Title: Uncanny AI: To click or not to click
+> * Project Title: Uncanny AI chatbots: Please Do Not Help Me!
 
 ## Relevant Sources
 
