@@ -39,19 +39,19 @@ Main topic: Trust in AI
 
 ### Participants
 
-The present study collected a convient sample consisting of X individuals (Age = XX.XX, XX% Female). Individuals were localized in the orlando area.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study collected a convient sample consisting of X individuals (Age = XX.XX, XX% Female). Individuals were localized in the orlando area.
 
 ### Design
 
-The present study was a three by two design. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study was a three by two design. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IV: Realism of Icon (cartoonish nonhuman icon, realistic humanoid icon, hyper realistic human icon), Visual Cues (text-based vs visual based)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IV: Realism of Icon (cartoonish nonhuman icon, realistic humanoid icon, hyper realistic human icon), Visual Cues (text-based vs visual based)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DV: trust, anthropomorphism, likeability, perceived intelligence
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DV: trust, anthropomorphism, likeability, perceived intelligence
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deception DV: SUS (Usability)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deception DV: SUS (Usability)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Covariate: Attitudes towards AI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Covariate: Attitudes towards AI
 
 |            |            |                        | Realism of AI Icon     |                        |
 |------------|------------|------------------------|------------------------|------------------------|
@@ -61,13 +61,13 @@ The present study was a three by two design.
 
 GPower Analysis for hypothetical participants:
 
-[Power_Analysis_Class.pdf](https://github.com/SassManMcGee/AITakeover-1985-/files/10690502/Power_Analysis_Class.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Power_Analysis_Class.pdf](https://github.com/SassManMcGee/AITakeover-1985-/files/10690502/Power_Analysis_Class.pdf)
 
-[Power_Analysis_Protocol_Class.pdf](https://github.com/SassManMcGee/AITakeover-1985-/files/10690503/Power_Analysis_Protocol_Class.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Power_Analysis_Protocol_Class.pdf](https://github.com/SassManMcGee/AITakeover-1985-/files/10690503/Power_Analysis_Protocol_Class.pdf)
 
 Qualtrics survey:
 
-https://ucf.qualtrics.com/jfe/form/SV_3gV5SwgTSycIgo6
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://ucf.qualtrics.com/jfe/form/SV_3gV5SwgTSycIgo6
 
 #### Stimuli
 
