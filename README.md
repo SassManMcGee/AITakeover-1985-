@@ -37,25 +37,27 @@ Main topic: Trust in AI
 
 ## Methods
 
-IV: Realism of Icon (cartoonish nonhuman icon, realistic humanoid icon, hyper realistic human icon), Visual Cues (text-based vs visual based)
+# Participants
 
-DV: trust, anthropomorphism, likeability, perceived intelligence
+The present study collected a convient sample consisting of X individuals (Age = XX.XX, XX% Female). Individuals were localized in the orlando area.
 
-Deception DV: SUS (Usability)
+# Design
 
-Covariate: Attitudes towards AI
+The present study was a three by two design. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IV: Realism of Icon (cartoonish nonhuman icon, realistic humanoid icon, hyper realistic human icon), Visual Cues (text-based vs visual based)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DV: trust, anthropomorphism, likeability, perceived intelligence
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deception DV: SUS (Usability)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Covariate: Attitudes towards AI
 
 |            |            |                        | Realism of AI Icon     |                        |
 |------------|------------|------------------------|------------------------|------------------------|
 |            |            | Cartoon-ish Nonhuman   | Realistic Humanoid     | Hyper realistic Human  |
 | Visual-cue | Visual     | [SUS] Usability, Trust | [SUS] Usability, Trust | [SUS] Usability, Trust |
 |            | Non-visual | [SUS] Usability, Trust | [SUS] Usability, Trust | [SUS] Usability, Trust |
-
-
-Operational definitions:
-
-Realism of AI icon will be based within a pictoral form as opposed to including any form of motion. Hyper realistic human would be most optimally closest to a human in appearance while not being a true human picture. Realistic humanoid would act as the control withiin this setting as most e-commerse sites utilize a cartoony realistic humanoid. Cartoon-ish nonhuman will be the cute nonhuman avatar that is closest to toy-like.
-
 
 GPower Analysis for hypothetical participants:
 
@@ -66,6 +68,33 @@ GPower Analysis for hypothetical participants:
 Qualtrics survey:
 
 https://ucf.qualtrics.com/jfe/form/SV_3gV5SwgTSycIgo6
+
+# Stimuli
+
+> Realism of AI icon will be based within a pictoral form as opposed to including any form of motion. 
+>> Hyper realistic human would be most optimally closest to a human in appearance while not being a true human picture. 
+>> Realistic humanoid would act as the control withiin this setting as most e-commerse sites utilize a cartoony realistic humanoid. 
+>> Cartoon-ish nonhuman will be the cute nonhuman avatar that is closest to toy-like.
+
+# Procedure
+
+Participants were verbally asked whether they consented to the present study. Once consent was obtained, participants were instructed to answer basic demographic information and prior attitudes towards AI. Following the questionnaires, participant were given the prompt for the task. 
+
+
+ \fbox{The following link will take you to the website of interest. You are looking to upgrade your current PC with some new parts. There are three things you want to search for:
+
+1. An item that will regulate the output voltage of your computer safely. You are looking for one of these that has advanced cooling technology, a high efficiency rating and will be reliable long-term.
+
+2. You also need a chip for your computer that will interpret commands and allow it to process information. You are looking for an item with a TDP of 125W and 8 cores.
+
+3. Processing speed is your most desired upgrade, so finally, you will need an item that will increase the computer’s short term memory. You are looking for an item with a 32GB capacity and a CL16 latency.
+
+While looking for the part on the website be sure to explore all the options that may assist you and keep note of the usability aspect of the website.
+
+Please try to complete the task as quickly as possible.
+
+Once you have completed the task please close the website webpage and return to this survey!}
+
 
 ## Results
 
