@@ -13,11 +13,13 @@
 
 Main topic: Trust in AI
 
-Real-world: E-commerce is becoming the largest way for consmers to make purchases. Global e-commerce sales are expected to hit $5.5 trillion in 2022. Around 76% of U.S. adults shop online.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The world is moving towards a more digital way to buy and sale goods. E-commerce is becoming the largest way for consmers to make purchases and globally e-commerce sales are expected to hit $5.5 trillion in 2022. Around 76% of U.S. adults shop online (CITE). As such people will need avenues to get help on their journeys through the digital landscapes. Chatbots as a cost effective way companies can provide help to customers without needing to have the workforce to back it up. As such the need for a better understanding of how users interact and perceive chatbots is needed.
 
-The present study seeks to understand users perceptions of AI powered chatbots that have different levels of human-likeness in their icons. The study looks to apply the foundational understanding of uncanny valley and look to its relevance in designing avatars for AI chatbots on degree of human-likeness. The present study also wants to understand the effects of having always visiable AI chatbot icons versus only seeing the icon when users activate the chat. The study seeks to understand whether having the icon always visible intensifies levels of affinity.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H1: Differences should be observed between the levels of realism of the AI icon and levels in affinity (trust, animacy, likeability, perceived intelligence)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study seeks to understand users perceptions of AI powered chatbots that have different levels of human-likeness in their icons. The study looks to apply the foundational understanding of uncanny valley and look to its relevance in designing avatars for AI chatbots on degree of human-likeness. The present study also wants to understand the effects of having always visiable AI chatbot icons versus only seeing the icon when users activate the chat. The study seeks to understand whether having the icon always visible intensifies levels of affinity.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H1: Differences should be observed between the levels of realism of the AI icon and levels in affinity (trust, likeability, perceived intelligence)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H1A: Cartoonish nonhuman should have the highest level of affinity but lowest level of anthropomorphism.
 
@@ -31,7 +33,7 @@ The present study seeks to understand users perceptions of AI powered chatbots t
 
 IV: Realism of Icon (cartoonish nonhuman icon, realistic humanoid icon, hyper realistic human icon), Visual Cues (text-based vs visual based)
 
-DV: trust, anthropomorphism, animacy, likeability, perceived intelligence
+DV: trust, anthropomorphism, likeability, perceived intelligence
 
 Deception DV: SUS (Usability)
 
