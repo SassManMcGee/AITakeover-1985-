@@ -7,12 +7,6 @@
 
 ## General Introduction
 
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
-
-Main topic: Trust in AI
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The world is moving towards a more digital way to buy and sale goods. E-commerce is becoming the largest way for consumers to make purchases as globally e-commerce sales are expected to hit $5.5 trillion in 2022. Around 76% of U.S. adults shop online (CITE). As such, people will need avenues to get help on their journeys through the digital landscapes. Chatbots are a cost effective way companies can provide help to customers without the need for a workforce to back it up. As such the need for a better understanding of how users interact and perceive chatbots is needed. This caused our group to wonder whether the visual presentation of the agent itself affected its intended use. Specifically, we wondered what different visual presentations would invoke an “uncanny valley” feel from the user as well as what differences in anthropomorphism would cause them to distrust or even reject the help of such an agent. 
 
 ### Related works
