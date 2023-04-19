@@ -127,8 +127,6 @@ Following the prompt, particiapnts had to indicate they read and understood the 
 
 ## References 
 
-(Add the bibliographic references you intend to use in format you want)
-
 Real-world information:
 
 Spending est. of e-commerse:
@@ -138,5 +136,13 @@ https://maristpoll.marist.edu/wp-content/misc/usapolls/us180423_NPR/NPR_Marist%2
 
 
 https://www.insiderintelligence.com/content/global-ecommerce-forecast-2022
+
+Li, X., & Sung, Y. (2021). Anthropomorphism brings us closer: The mediating role of psychological distance in User–AI assistant interactions - ScienceDirect. ScienceDirect.Com | Science, Health and Medical Journals, Full Text Articles and Books. https://www.sciencedirect.com/science/article/pii/S0747563221000029
+
+Min, F. A. N., Fang, Z. O. U., He, Y., & Xuan, J. I. A. N. G. (2021, January). Research on Users' Trust of Chatbots Driven by AI: An Empirical Analysis Based on System Factors and User Characteristics. In 2021 IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE) (pp. 55-58). IEEE.
+
+Mori, M., MacDorman, K. F., & Kageki, N. (2012). The uncanny valley [from the field]. IEEE Robotics & automation magazine, 19(2), 98-100.
+
+Nightingale, S. J., & Farid, H. (2022). AI-synthesized faces are indistinguishable from real faces and more trustworthy. Proceedings of the National Academy of Sciences, 119(8), e2120481119. https://doi.org/10.1073/pnas.2120481119
 
 Schepman, A., & Rodway, P. (2022). The General Attitudes towards Artificial Intelligence Scale (GAAIS): Confirmatory Validation and Associations with Personality, Corporate Distrust, and General Trust.
