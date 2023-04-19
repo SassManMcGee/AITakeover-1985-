@@ -65,6 +65,12 @@ Qualtrics survey:
 
 #### Stimuli
 
+##### Website
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The website...
+
+##### AI Chatbot Icons
+
 Realism of AI icon will be based within a pictoral form as opposed to including any form of motion.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyper realistic human would be most optimally closest to a human in appearance while not being a true human picture.
