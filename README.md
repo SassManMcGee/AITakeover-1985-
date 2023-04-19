@@ -19,7 +19,7 @@ Main topic: Trust in AI
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Diving into the literature and studies that already exist surrounding this topic, we found that several studies indicated a positive correlation between anthropomorphism and overall effectiveness of the artificial agent. One study by Li and Sung found a type of curve that existed within reactions to AI agents. These researchers observed increased affinity for anthropomorphized characters up to a certain point. At a certain level of fidelity, as the visual representations got closer and closer to human likeness, user trust began to plummet in the AI, however, this only happened at a certain point where images became a grey-area of definite human likeness but not quite fully believable as human. This is part of the effect called “Uncanny Valley,” which we will touch more on later. These researchers hypothesized that the specific correlation between lower fidelity/cartoon renderings of anthropomorphized agents was due to the fact that human emotions were easily attributed to these styles of agents. These cartoon-style agents do not pass into the realm of “uncanny” because their visual fidelity is not similar enough to actual human likeness to trigger it (Li & Sung, 2021). This is all hypothesis and ultimately conjecture, but we found it interesting food for thought.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Another study which delved into the visual fidelity of the AI agent was done by Mori. This study specifically looked at the effects of humanoid or robot images that are used for AI agents. These agents had humanistic qualities, such as vaguely human shape and features but were yet not quite human. This effect was said to evoke a sense of eeriness or revulsion in the observer.  This dip in emotional response is also part of the “uncanny valley (Mori et al., 2012).” The combination of these two studies, especially in their observations of different aspects of uncanny valley led us to a place of wanting to experiment for ourselves to determine the full spectrum of this valley. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Another study which delved into the visual fidelity of the AI agent was done by Mori. This study specifically looked at the effects of humanoid or robot images that are used for AI agents. These agents had humanistic qualities, such as vaguely human shape and features but were yet not quite human. This was said to evoke a sense of eeriness or revulsion in the observer.  This dip in emotional response is also part of the “uncanny valley (Mori et al., 2012).” The combination of these two studies, especially in their observations of different aspects of uncanny valley led us to a place of wanting to experiment for ourselves the full spectrum of this valley. 
 
 # Present study
 
@@ -71,17 +71,18 @@ https://ucf.qualtrics.com/jfe/form/SV_3gV5SwgTSycIgo6
 
 # Stimuli
 
-> Realism of AI icon will be based within a pictoral form as opposed to including any form of motion. 
->> Hyper realistic human would be most optimally closest to a human in appearance while not being a true human picture. 
->> Realistic humanoid would act as the control withiin this setting as most e-commerse sites utilize a cartoony realistic humanoid. 
->> Cartoon-ish nonhuman will be the cute nonhuman avatar that is closest to toy-like.
+Realism of AI icon will be based within a pictoral form as opposed to including any form of motion. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyper realistic human would be most optimally closest to a human in appearance while not being a true human picture. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Realistic humanoid would act as the control withiin this setting as most e-commerse sites utilize a cartoony realistic humanoid. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cartoon-ish nonhuman will be the cute nonhuman avatar that is closest to toy-like.
 
 # Procedure
 
-Participants were verbally asked whether they consented to the present study. Once consent was obtained, participants were instructed to answer basic demographic information and prior attitudes towards AI. Following the questionnaires, participant were given the prompt for the task. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participants were verbally asked whether they consented to the present study. Once consent was obtained, participants were instructed to answer basic demographic information and prior attitudes towards AI. Following the questionnaires, participant were given the prompt for the task (as seen below):
 
+-----------------------------
 
- \fbox{The following link will take you to the website of interest. You are looking to upgrade your current PC with some new parts. There are three things you want to search for:
+The following link will take you to the website of interest. You are looking to upgrade your current PC with some new parts. There are three things you want to search for:
 
 1. An item that will regulate the output voltage of your computer safely. You are looking for one of these that has advanced cooling technology, a high efficiency rating and will be reliable long-term.
 
@@ -93,7 +94,11 @@ While looking for the part on the website be sure to explore all the options tha
 
 Please try to complete the task as quickly as possible.
 
-Once you have completed the task please close the website webpage and return to this survey!}
+Once you have completed the task please close the website webpage and return to this survey
+
+-----------------------------
+
+Following the prompt, particiapnts had to indicate they read and understood the prompt. Participants believed they were evaluating the website. The task itself was an unguided exploration of the website attempting to locate specific items. Paticipants were fooled into using the chatbot at least once during the task. Following the task, participants were told to return to the questionnaires to continue to answer questions. The first questionnaire was the SUS about the website. Following the deception check, questionnaires specific to the chatbot were given.
 
 
 ## Results
