@@ -15,13 +15,13 @@ Main topic: Trust in AI
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The world is moving towards a more digital way to buy and sale goods. E-commerce is becoming the largest way for consumers to make purchases as globally e-commerce sales are expected to hit $5.5 trillion in 2022. Around 76% of U.S. adults shop online (CITE). As such, people will need avenues to get help on their journeys through the digital landscapes. Chatbots are a cost effective way companies can provide help to customers without the need for a workforce to back it up. As such the need for a better understanding of how users interact and perceive chatbots is needed. This caused our group to wonder whether the visual presentation of the agent itself affected its intended use. Specifically, we wondered what different visual presentations would invoke an “uncanny valley” feel from the user as well as what differences in anthropomorphism would cause them to distrust or even reject the help of such an agent. 
 
-# Related works
+### Related works
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Diving into the literature and studies that already exist surrounding this topic, we found that several studies indicated a positive correlation between anthropomorphism and overall effectiveness of the artificial agent. One study by Li and Sung found a type of curve that existed within reactions to AI agents. These researchers observed increased affinity for anthropomorphized characters up to a certain point. At a certain level of fidelity, as the visual representations got closer and closer to human likeness, user trust began to plummet in the AI, however, this only happened at a certain point where images became a grey-area of definite human likeness but not quite fully believable as human. This is part of the effect called “Uncanny Valley,” which we will touch more on later. These researchers hypothesized that the specific correlation between lower fidelity/cartoon renderings of anthropomorphized agents was due to the fact that human emotions were easily attributed to these styles of agents. These cartoon-style agents do not pass into the realm of “uncanny” because their visual fidelity is not similar enough to actual human likeness to trigger it (Li & Sung, 2021). This is all hypothesis and ultimately conjecture, but we found it interesting food for thought.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Another study which delved into the visual fidelity of the AI agent was done by Mori. This study specifically looked at the effects of humanoid or robot images that are used for AI agents. These agents had humanistic qualities, such as vaguely human shape and features but were yet not quite human. This was said to evoke a sense of eeriness or revulsion in the observer.  This dip in emotional response is also part of the “uncanny valley (Mori et al., 2012).” The combination of these two studies, especially in their observations of different aspects of uncanny valley led us to a place of wanting to experiment for ourselves the full spectrum of this valley. 
 
-# Present study
+### Present study
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study seeks to understand users perceptions of AI powered chatbots that have different levels of human-likeness in their icons. The study looks to apply the foundational understanding of uncanny valley and look to its relevance in designing avatars for AI chatbots on degree of human-likeness. The present study also wants to understand the effects of having always visiable AI chatbot icons versus only seeing the icon when users activate the chat. The study seeks to understand whether having the icon always visible intensifies levels of affinity.
 
@@ -37,11 +37,11 @@ Main topic: Trust in AI
 
 ## Methods
 
-# Participants
+### Participants
 
 The present study collected a convient sample consisting of X individuals (Age = XX.XX, XX% Female). Individuals were localized in the orlando area.
 
-# Design
+### Design
 
 The present study was a three by two design. 
 
@@ -69,14 +69,25 @@ Qualtrics survey:
 
 https://ucf.qualtrics.com/jfe/form/SV_3gV5SwgTSycIgo6
 
-# Stimuli
+#### Stimuli
 
-Realism of AI icon will be based within a pictoral form as opposed to including any form of motion. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyper realistic human would be most optimally closest to a human in appearance while not being a true human picture. 
+Realism of AI icon will be based within a pictoral form as opposed to including any form of motion.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyper realistic human would be most optimally closest to a human in appearance while not being a true human picture.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Realistic humanoid would act as the control withiin this setting as most e-commerse sites utilize a cartoony realistic humanoid. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cartoon-ish nonhuman will be the cute nonhuman avatar that is closest to toy-like.
 
-# Procedure
+#### Measures
+
+GodSpeed Questionnaire
+
+SUS
+
+Trust
+
+### Procedure
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participants were verbally asked whether they consented to the present study. Once consent was obtained, participants were instructed to answer basic demographic information and prior attitudes towards AI. Following the questionnaires, participant were given the prompt for the task (as seen below):
 
@@ -129,7 +140,3 @@ https://maristpoll.marist.edu/wp-content/misc/usapolls/us180423_NPR/NPR_Marist%2
 https://www.insiderintelligence.com/content/global-ecommerce-forecast-2022
 
 Schepman, A., & Rodway, P. (2022). The General Attitudes towards Artificial Intelligence Scale (GAAIS): Confirmatory Validation and Associations with Personality, Corporate Distrust, and General Trust.
-
-
-
-
