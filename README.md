@@ -85,7 +85,10 @@ GodSpeed Questionnaire: The Godspeed questionnaire is one of the most common sca
 
 SUS: The SUS is a commonly used scale to assess the usability of a product. It has a variety of contexts, but websites are in particular one of the most common use cases. It provides data regarding the satisfaction, efficiency, and effectiveness of a product. It is a 10 question, 5 point likert scale.
 
-Trust:
+User Perception: For this study we will be using the GAAIS (General Attitudes towards Artificial Intelligence Scale. This scale assesses the participants personality (using the big 5) as well as attitudes towards artificial intelligence (positive and negative). We will be using this scale to assess the user's attitudes of the chatbot in particular prior to the beginning of the task.
+
+Trust: We will be using the "Checklist for Trust between People and Automation". This study will help us assess user's trust of the chatbot after completion of the task. The users will be asked questions regarding their perception of the actions of the chatbot (are they positive, or with malintent?) and trust is measured based off that.
+
 
 ### Procedure
 
