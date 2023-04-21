@@ -81,11 +81,11 @@ Realism of AI icon will be based within a pictoral form as opposed to including 
 
 #### Measures
 
-GodSpeed Questionnaire
+GodSpeed Questionnaire: The Godspeed questionnaire is one of the most common scales used to assess human-robot interaction. Assesment is done on the anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety. All of these measures help us understand the perception of  an agent's social presence to a participant.
 
-SUS
+SUS: The SUS is a commonly used scale to assess the usability of a product. It has a variety of contexts, but websites are in particular one of the most common use cases. It provides data regarding the satisfaction, efficiency, and effectiveness of a product. It is a 10 question, 5 point likert scale.
 
-Trust
+Trust:
 
 ### Procedure
 
