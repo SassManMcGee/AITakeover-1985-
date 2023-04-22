@@ -82,12 +82,16 @@ Realism of AI icon will be based within a pictoral form as opposed to including 
 #### Measures
 
 GodSpeed Questionnaire: The Godspeed questionnaire is one of the most common scales used to assess human-robot interaction. Assesment is done on the anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety. All of these measures help us understand the perception of  an agent's social presence to a participant.
+Bartneck, C., Kulić, D., Croft, E., &amp; Zoghbi, S. (2008). Measurement instruments for the anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety of Robots. International Journal of Social Robotics, 1(1), 71–81. https://doi.org/10.1007/s12369-008-0001-3 
 
 SUS: The SUS is a commonly used scale to assess the usability of a product. It has a variety of contexts, but websites are in particular one of the most common use cases. It provides data regarding the satisfaction, efficiency, and effectiveness of a product. It is a 10 question, 5 point likert scale.
+Brooke, J. (1996). Sus: A 'quick and dirty' usability scale. Usability Evaluation In Industry, 207–212. https://doi.org/10.1201/9781498710411-35 
 
 User Perception: For this study we will be using the GAAIS (General Attitudes towards Artificial Intelligence Scale. This scale assesses the participants personality (using the big 5) as well as attitudes towards artificial intelligence (positive and negative). We will be using this scale to assess the user's attitudes of the chatbot in particular prior to the beginning of the task.
+Schepman, A., &amp; Rodway, P. (2020). Initial validation of the general attitudes towards Artificial Intelligence Scale. Computers in Human Behavior Reports, 1, 100014. https://doi.org/10.1016/j.chbr.2020.100014 
 
 Trust: We will be using the "Checklist for Trust between People and Automation". This study will help us assess user's trust of the chatbot after completion of the task. The users will be asked questions regarding their perception of the actions of the chatbot (are they positive, or with malintent?) and trust is measured based off that.
+Jian, J.-Y., Bisantz, A. M., &amp; Drury, C. G. (2000). Checklist for Trust between people and automation. PsycTESTS Dataset. https://doi.org/10.1037/t07973-000 
 
 
 ### Procedure
