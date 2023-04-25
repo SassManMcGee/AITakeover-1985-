@@ -68,6 +68,29 @@ Qualtrics survey:
 ##### Website
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The website...
+The website was purposely designed poorly, with the intent to make the user have to rely on the chatbot. Design choices included making similarly named tabs, products being placed in multiple tabs when they shouldn't, as well as using a "loud" color palette paired with a cluttered user interface.
+
+<img width="1377" alt="home page" src="https://user-images.githubusercontent.com/91133832/234423402-6e498c51-cce1-4882-aab5-8172cbc1f2d4.png">
+
+<img width="1382" alt="shop pc's" src="https://user-images.githubusercontent.com/91133832/234423604-9240df28-0c28-4f8f-a828-35f2e4f0566c.png">
+
+<img width="1384" alt="our best deals" src="https://user-images.githubusercontent.com/91133832/234423676-8bf4af4b-2bbb-4f4d-8d6e-0e3058747450.png">
+
+<img width="1374" alt="computer parts" src="https://user-images.githubusercontent.com/91133832/234423827-313074a5-8df2-4def-b6b4-72380ad80c82.png">
+
+The products on the website also included several similar products, with similar descriptions. These products often only had slight differences between one another, so as a result users would likely have to refer back to the chatbot for their task requirements or to look for help.
+
+For example, task 1 asks the users to find "An item that will regulate the output voltage of your computer safely. You are looking for one of these that has advanced cooling technology, a high efficiency rating and will be reliable long-term."
+
+<img width="1379" alt="power supply 2" src="https://user-images.githubusercontent.com/91133832/234424316-4e08b051-d332-4bc0-9e17-87a598fa24cc.png">
+
+<img width="1097" alt="power supply 1" src="https://user-images.githubusercontent.com/91133832/234424598-0baa5e26-749e-45a2-be85-4fc975e56a00.png">
+
+Task 3 asks users to find "An item that will increase the computer’s short term memory. You are looking for an item with a 32GB capacity and a CL16 latency."
+
+<img width="1377" alt="ram 3" src="https://user-images.githubusercontent.com/91133832/234424768-685bd6fa-888f-4d6c-9e77-15fef125b47f.png">
+
+<img width="1376" alt="ram 4" src="https://user-images.githubusercontent.com/91133832/234424788-f1631ffc-3528-4cc8-81fe-efd877551fee.png">
 
 ##### AI Chatbot Icons
 
