@@ -70,13 +70,13 @@ Qualtrics survey:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The website was purposely designed poorly, with the intent to make the user have to rely on the chatbot. Design choices included making similarly named tabs, products being placed in multiple tabs when they shouldn't, as well as using a "loud" color palette paired with a cluttered user interface.
 
-<img width="1377" alt="home page" src="https://user-images.githubusercontent.com/91133832/234423402-6e498c51-cce1-4882-aab5-8172cbc1f2d4.png">
+home page.png
 
-<img width="1382" alt="shop pc's" src="https://user-images.githubusercontent.com/91133832/234423604-9240df28-0c28-4f8f-a828-35f2e4f0566c.png">
+our best deals.png
 
-<img width="1384" alt="our best deals" src="https://user-images.githubusercontent.com/91133832/234423676-8bf4af4b-2bbb-4f4d-8d6e-0e3058747450.png">
+shop pc's.png
 
-<img width="1374" alt="computer parts" src="https://user-images.githubusercontent.com/91133832/234423827-313074a5-8df2-4def-b6b4-72380ad80c82.png">
+computer parts.png
 
 The products on the website also included several similar products, with similar descriptions. These products often only had slight differences between one another, so as a result users would likely have to refer back to the chatbot for their task requirements or to look for help.
 
