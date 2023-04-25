@@ -71,8 +71,11 @@ Qualtrics survey:
 The website was purposely designed poorly, with the intent to make the user have to rely on the chatbot. Design choices included making similarly named tabs, products being placed in multiple tabs when they shouldn't, as well as using a "loud" color palette paired with a cluttered user interface.
 
 [home page](../home_page.png)
+
 [best deals](../best_deals.png)
+
 [shop pc's](../shop_pc's.png)
+
 [computer parts](../computer_parts.png)
 
 The products on the website also included several similar products, with similar descriptions. These products often only had slight differences between one another, so as a result users would likely have to refer back to the chatbot for their task requirements or to look for help.
@@ -80,11 +83,13 @@ The products on the website also included several similar products, with similar
 For example, task 1 asks the users to find "An item that will regulate the output voltage of your computer safely. You are looking for one of these that has advanced cooling technology, a high efficiency rating and will be reliable long-term."
 
 [power supply 1 page](../power_supply_1.png)
+
 [power supply 2 page](../power_supply_2.png)
 
 Task 3 asks users to find "An item that will increase the computer’s short term memory. You are looking for an item with a 32GB capacity and a CL16 latency."
 
 [ram 3 page](../ram_3.png)
+
 [ram 4 page](../ram_4.png)
 
 ##### AI Chatbot Icons
