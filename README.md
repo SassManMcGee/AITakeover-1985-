@@ -70,7 +70,7 @@ Qualtrics survey:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The website was purposely designed poorly, with the intent to make the user have to rely on the chatbot. Design choices included making similarly named tabs, products being placed in multiple tabs when they shouldn't, as well as using a "loud" color palette paired with a cluttered user interface.
 
-[a relative link] (home page.png)
+(master/Relevant_images/home%20page.png)
 
 our best deals.png
 
