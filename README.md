@@ -98,9 +98,15 @@ Realism of AI icon will be based within a pictoral form as opposed to including 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyper realistic human would be most optimally closest to a human in appearance while not being a true human picture.
 
+[Hyper realistic human](/Relevant_images/realistic_agent.png)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Realistic humanoid would act as the control withiin this setting as most e-commerse sites utilize a cartoony realistic humanoid. 
 
+[Realistic humanoid](/Relevant_images/midlevel_agent.png)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cartoon-ish nonhuman will be the cute nonhuman avatar that is closest to toy-like.
+
+[Cartoon-ish nonhuman](/Relevant_images/robot_agent.png)
 
 #### Measures
 
