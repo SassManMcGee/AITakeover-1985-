@@ -68,7 +68,7 @@ Qualtrics survey:
 ##### Website
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The website was purposely designed poorly, with the intent to make the user have to rely on the chatbot. Design choices included making similarly named tabs, products being placed in multiple tabs when they shouldn't, as well as using a "loud" color palette paired with a cluttered user interface.
+The website was purposely designed poorly, with the intent to make the user have to rely on the chatbot. Design choices included making similarly named tabs, products being placed in multiple tabs when they logically should not be, as well as using a "loud" color palette paired with a cluttered user interface. The deisng of the website was intentionally very confusing in order to try and lead participants towards using the chatbot in order to complete the tasks at hand for the study.
 
 [home page](/Relevant_images/home_page.png)
 
@@ -78,7 +78,7 @@ The website was purposely designed poorly, with the intent to make the user have
 
 [computer parts](/Relevant_images/computer_parts.png)
 
-The products on the website also included several similar products, with similar descriptions. These products often only had slight differences between one another, so as a result users would likely have to refer back to the chatbot for their task requirements or to look for help.
+The products on the website also included several near-identical products, with similar descriptions. These products often had only slight differences between one another, so as a result users would likely have to refer back to the chatbot for their task requirements in order to pick the right items.
 
 For example, task 1 asks the users to find "An item that will regulate the output voltage of your computer safely. You are looking for one of these that has advanced cooling technology, a high efficiency rating and will be reliable long-term."
 
@@ -172,19 +172,19 @@ This project makes the following contributions:
 
 •	Provided a framework for general chatbots for ecommerce sites to be used and tested. [See here](/relevant_code/)
 
-•	Provided insight into uncanny vallets effect in task based interactions.
+•	Provided insight into uncanny valley's effect in task based interactions.
 
 •	Provided the groundwork for understanding how exposure can influence the uncally valley phenomenon.
 
 ### Future work
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study found that there are interesting trends to further explore in these ecommerce tasks. Further reserach is needed to determine whether these trends do continue with larger samples. Additionally, the present study would benefit from the addition of behaviors information (i.e., mouse tracking behaviors and possible eye-tracking) to further understand the intentions of individuals navigating through the website.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study found that there are interesting trends to further explore in these ecommerce tasks. Further reserach is needed to determine whether these trends continue with larger samples. Additionally, the present study would benefit from the addition of behaviors information (i.e., mouse tracking behaviors and possible eye-tracking) to further understand the intentions of individuals navigating through the website.
 
 ### Limitations
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study suffered from blocks in the capabilities of the technologies used (i.e., Wix pushing for payments on many of the basic levels that are needed for creating custom code). The present study also had a small sample size and was unable to investigate the trends in the hyper realistic icon across visual and nonvisual conditions. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical difficulties also included the generative-Question&Answer AI was ran off a server on a localhost machine using Ngork, some participants noted the responses were slow and sometimes disjoined is asked in rapid fire. Additionally, the study was originally proposed to be a in-person study however the university banned the website as being possibly malicious as it was unsecure.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical difficulties also included that the generative-Question&Answer AI was run off of a server on a localhost machine using Ngork. Because of this, some participants noted that the responses were slow and disjointed, especially when quesions/interactions were posed to the AI in rapid fire. Additionally, this study was originally proposed to be a in-person study, however due to the university banning the website as being possibly malicious due to its unsecure nature, it had the be moved to a remote study.
 
 ## References 
 
