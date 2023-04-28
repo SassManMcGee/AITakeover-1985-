@@ -70,27 +70,27 @@ Qualtrics survey:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The website was purposely designed poorly, with the intent to make the user have to rely on the chatbot. Design choices included making similarly named tabs, products being placed in multiple tabs when they shouldn't, as well as using a "loud" color palette paired with a cluttered user interface.
 
-[home page](../home_page.png)
+[home page](/Relevant_images/home_page.png)
 
-[best deals](../best_deals.png)
+[best deals](/Relevant_images/best_deals.png)
 
-[shop pc's](../shop_pc's.png)
+[shop pc's](/Relevant_images/shop_pc's.png)
 
-[computer parts](../computer_parts.png)
+[computer parts](/Relevant_images/computer_parts.png)
 
 The products on the website also included several similar products, with similar descriptions. These products often only had slight differences between one another, so as a result users would likely have to refer back to the chatbot for their task requirements or to look for help.
 
 For example, task 1 asks the users to find "An item that will regulate the output voltage of your computer safely. You are looking for one of these that has advanced cooling technology, a high efficiency rating and will be reliable long-term."
 
-[power supply 1 page](../power_supply_1.png)
+[power supply 1 page](/Relevant_images/power_supply_1.png)
 
-[power supply 2 page](../power_supply_2.png)
+[power supply 2 page](/Relevant_images/power_supply_2.png)
 
 Task 3 asks users to find "An item that will increase the computer’s short term memory. You are looking for an item with a 32GB capacity and a CL16 latency."
 
-[ram 3 page](../ram_3.png)
+[ram 3 page](/Relevant_images/ram_3.png)
 
-[ram 4 page](../ram_4.png)
+[ram 4 page](/Relevant_images/ram_4.png)
 
 ##### AI Chatbot Icons
 
@@ -144,19 +144,19 @@ Following the prompt, particiapnts had to indicate they read and understood the 
 
 [Different affinity levels between visual condition icons](/Relevant_images/diffAfinity_Visual.png)
 
-[Different trust/ distrust levels between visual condition icons](../trustDistrust_Visual.png)
+[Different trust/ distrust levels between visual condition icons](/Relevant_images/trustDistrust_Visual.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trending positive affinity towards hyperrealistic and cartoon icons, whereas there are trends for both higher distrust and lower affinity levels fore the humanoid icon.
 
 ### Hypothesis 2: Differences between visual and nonvisual conditions
 
-[Different affinity levels between visual and non visual cartoon icons](../diffAfinity_Cartoon.png)
+[Different affinity levels between visual and non visual cartoon icons](/Relevant_images/diffAfinity_Cartoon.png)
 
-[Different trust/ distrust levels between visual and non visual cartoon icons](../trustDistrust_Cartoon.png)
+[Different trust/ distrust levels between visual and non visual cartoon icons](/Relevant_images/trustDistrust_Cartoon.png)
 
-[Different affinity levels between visual and non visual humanoid icons](../diffAfinity_Humanoid.png)
+[Different affinity levels between visual and non visual humanoid icons](/Relevant_images/diffAfinity_Humanoid.png)
 
-[Different trust/ distrust levels between visual and non visual humanoid icons](../trustDistrust_Humanoid.png)
+[Different trust/ distrust levels between visual and non visual humanoid icons](/Relevant_images/trustDistrust_Humanoid.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trends towards main effects in differences between visual and non-visual conditions. As indicated by the trends in differences between the two conditions within the icons. As well as an overall interaction of the visual and nonvisual component, as indiciated by the differences across the trials.
 
