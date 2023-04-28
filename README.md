@@ -163,8 +163,11 @@ Following the prompt, particiapnts had to indicate they read and understood the 
 ## Conclusion
 
 This project makes the following contributions:
-•	Provided a framework for general chatbots for ecommerce sites to be used and tested.
+
+•	Provided a framework for general chatbots for ecommerce sites to be used and tested. [See here](/relevant_code/)
+
 •	Provided insight into uncanny vallets effect in task based interactions.
+
 •	Provided the groundwork for understanding how exposure can influence the uncally valley phenomenon.
 
 ### Future work
