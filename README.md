@@ -142,7 +142,7 @@ Following the prompt, particiapnts had to indicate they read and understood the 
 
 ### Hypothesis 1: Differences in realism of icon
 
-[Different affinity levels between visual condition icons](../diffAfinity_Visual.png)
+[Different affinity levels between visual condition icons](../Relevant_images/diffAfinity_Visual.png)
 
 [Different trust/ distrust levels between visual condition icons](../trustDistrust_Visual.png)
 
