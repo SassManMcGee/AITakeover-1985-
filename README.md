@@ -33,7 +33,7 @@
 
 ### Participants
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study collected a convient sample consisting of X individuals (Age = XX.XX, XX% Female). Individuals were localized in the orlando area.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study collected a convient sample consisting of 5 individuals (Age *M* = 23.60, *SD* = 3.05, 60% Male). Individuals were localized in the orlando area.
 
 ### Design
 
@@ -104,17 +104,13 @@ Realism of AI icon will be based within a pictoral form as opposed to including 
 
 #### Measures
 
-GodSpeed Questionnaire: The Godspeed questionnaire is one of the most common scales used to assess human-robot interaction. Assesment is done on the anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety. All of these measures help us understand the perception of  an agent's social presence to a participant.
-Bartneck, C., Kulić, D., Croft, E., &amp; Zoghbi, S. (2008). Measurement instruments for the anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety of Robots. International Journal of Social Robotics, 1(1), 71–81. https://doi.org/10.1007/s12369-008-0001-3 
+GodSpeed Questionnaire: The Godspeed questionnaire is one of the most common scales used to assess human-robot interaction. Assesment is done on the anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety. All of these measures help us understand the perception of  an agent's social presence to a participant (Bartneck et al., 2008). 
 
-SUS: The SUS is a commonly used scale to assess the usability of a product. It has a variety of contexts, but websites are in particular one of the most common use cases. It provides data regarding the satisfaction, efficiency, and effectiveness of a product. It is a 10 question, 5 point likert scale.
-Brooke, J. (1996). Sus: A 'quick and dirty' usability scale. Usability Evaluation In Industry, 207–212. https://doi.org/10.1201/9781498710411-35 
+SUS: The SUS is a commonly used scale to assess the usability of a product. It has a variety of contexts, but websites are in particular one of the most common use cases. It provides data regarding the satisfaction, efficiency, and effectiveness of a product. It is a 10 question, 5 point likert scale (Brooke, 1996).
 
-User Perception: For this study we will be using the GAAIS (General Attitudes towards Artificial Intelligence Scale. This scale assesses the participants personality (using the big 5) as well as attitudes towards artificial intelligence (positive and negative). We will be using this scale to assess the user's attitudes of the chatbot in particular prior to the beginning of the task.
-Schepman, A., &amp; Rodway, P. (2020). Initial validation of the general attitudes towards Artificial Intelligence Scale. Computers in Human Behavior Reports, 1, 100014. https://doi.org/10.1016/j.chbr.2020.100014 
+User Perception: For this study we will be using the GAAIS (General Attitudes towards Artificial Intelligence Scale. This scale assesses the participants personality (using the big 5) as well as attitudes towards artificial intelligence (positive and negative). We will be using this scale to assess the user's attitudes of the chatbot in particular prior to the beginning of the task (Schepman & Rodway, 2020).
 
-Trust: We will be using the "Checklist for Trust between People and Automation". This study will help us assess user's trust of the chatbot after completion of the task. The users will be asked questions regarding their perception of the actions of the chatbot (are they positive, or with malintent?) and trust is measured based off that.
-Jian, J.-Y., Bisantz, A. M., &amp; Drury, C. G. (2000). Checklist for Trust between people and automation. PsycTESTS Dataset. https://doi.org/10.1037/t07973-000 
+Trust: We will be using the "Checklist for Trust between People and Automation". This study will help us assess user's trust of the chatbot after completion of the task. The users will be asked questions regarding their perception of the actions of the chatbot (are they positive, or with malintent?) and trust is measured based off that (Jian et al., 2000). 
 
 
 ### Procedure
@@ -144,16 +140,42 @@ Following the prompt, particiapnts had to indicate they read and understood the 
 
 ## Results
 
+### Hypothesis 1: Differences in realism of icon
 
+[Different affinity levels between visual condition icons](../diffAfinity_Visual.png)
+
+[Different trust/ distrust levels between visual condition icons](../trustDistrust_Visual.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trending positive affinity towards hyperrealistic and cartoon icons, whereas there are trends for both higher distrust and lower affinity levels fore the humanoid icon.
+
+### Hypothesis 2: Differences between visual and nonvisual conditions
+
+[Different affinity levels between visual and non visual cartoon icons](../diffAfinity_Cartoon.png)
+
+[Different trust/ distrust levels between visual and non visual cartoon icons](../trustDistrust_Cartoon.png)
+
+[Different affinity levels between visual and non visual humanoid icons](../diffAfinity_Humanoid.png)
+
+[Different trust/ distrust levels between visual and non visual humanoid icons](../trustDistrust_Humanoid.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trends towards main effects in differences between visual and non-visual conditions. As indicated by the trends in differences between the two conditions within the icons. As well as an overall interaction of the visual and nonvisual component, as indiciated by the differences across the trials.
 
 ## Conclusion
 
-(Contributions. An enumeration of the contributions of the senior design project)
+This project makes the following contributions:
+•	Provided a framework for general chatbots for ecommerce sites to be used and tested.
+•	Provided insight into uncanny vallets effect in task based interactions.
+•	Provided the groundwork for understanding how exposure can influence the uncally valley phenomenon.
 
-(This project makes the following contributions:)(you must have this!!)
-•	(Contribution 1)
-•	(Contribution 2)
+### Future work
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study found that there are interesting trends to further explore in these ecommerce tasks. Further reserach is needed to determine whether these trends do continue with larger samples. Additionally, the present study would benefit from the addition of behaviors information (i.e., mouse tracking behaviors and possible eye-tracking) to further understand the intentions of individuals navigating through the website.
+
+### Limitations
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study suffered from blocks in the capabilities of the technologies used (i.e., Wix pushing for payments on many of the basic levels that are needed for creating custom code). The present study also had a small sample size and was unable to investigate the trends in the hyper realistic icon across visual and nonvisual conditions. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical difficulties also included the generative-Question&Answer AI was ran off a server on a localhost machine using Ngork, some participants noted the responses were slow and sometimes disjoined is asked in rapid fire. Additionally, the study was originally proposed to be a in-person study however the university banned the website as being possibly malicious as it was unsecure.
 
 ## References 
 
@@ -162,8 +184,6 @@ Real-world information:
 Spending est. of e-commerse:
 
 https://maristpoll.marist.edu/wp-content/misc/usapolls/us180423_NPR/NPR_Marist%20Poll_Tables%20of%20Questions_May%202018.pdf
-
-
 
 https://www.insiderintelligence.com/content/global-ecommerce-forecast-2022
 
