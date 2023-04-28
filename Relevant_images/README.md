@@ -1,5 +1,4 @@
-# Research Practicum 2018 – Research Plan (Template)
-(text between brackets to be removed)
+# Research Practicum 2018 – Research Plan
 
 > * Group Name: AI Takeover: The 1985 experience
 > * Group participants names: Morgan Hilton, Emily Bannister, Jordan Sasser
