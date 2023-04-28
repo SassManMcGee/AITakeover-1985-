@@ -178,13 +178,13 @@ This project makes the following contributions:
 
 ### Future work
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study found that there are interesting trends to further explore in these ecommerce tasks. Further reserach is needed to determine whether these trends continue with larger samples. Additionally, the present study would benefit from the addition of behaviors information (i.e., mouse tracking behaviors and possible eye-tracking) to further understand the intentions of individuals navigating through the website.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study found that there are interesting trends to further explore in these ecommerce tasks. Further research is needed to determine whether these trends continue with larger samples. Additionally, the present study would benefit from the addition of behaviors information (i.e., mouse tracking behaviors and possible eye-tracking) to further understand the intentions of individuals navigating through the website.
 
 ### Limitations
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The present study suffered from blocks in the capabilities of the technologies used (i.e., Wix pushing for payments on many of the basic levels that are needed for creating custom code). The present study also had a small sample size and was unable to investigate the trends in the hyper realistic icon across visual and nonvisual conditions. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical difficulties also included that the generative-Question&Answer AI was run off of a server on a localhost machine using Ngork. Because of this, some participants noted that the responses were slow and disjointed, especially when quesions/interactions were posed to the AI in rapid fire. Additionally, this study was originally proposed to be a in-person study, however due to the university banning the website as being possibly malicious due to its unsecure nature, it had the be moved to a remote study.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical difficulties also included that the generative-Question&Answer AI was run off of a server on a localhost machine using Ngork. Because of this, some participants noted that the responses were slow and disjointed, especially when quesions/interactions were posed to the AI in rapid fire. Additionally, this study was originally proposed to be hosted in-person, however due to the university banning the website as being possibly malicious, it had the be moved to a remote format.
 
 ## References 
 
